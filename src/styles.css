@@ -1,0 +1,27 @@
+* {
+  background: #eee;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.searchBox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #fff;
+  width: 50%;
+  margin: 0 auto;
+  padding: 10px 5px;
+  border-radius: 10px;
+}
+.seacrhInput {
+  border: none;
+  font-size: 1rem;
+  background: #fff;
+  margin-left: 5px;
+  outline: none;
+}
+.searchIcon {
+  background: #fff;
+}
